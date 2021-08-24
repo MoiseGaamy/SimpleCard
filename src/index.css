@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.desc{
+  display: flex;
+  margin: 2rem;
+  color: beige;
+  font-size: 18px;
+  background-image:linear-gradient(45deg,#136a8a,#267871);
+}
+.myImage{
+  max-width: 20%;
+}
